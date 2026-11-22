@@ -16,10 +16,10 @@ Based in Milan, Italy. Open to roles in edge AI, ML compilers and inference hard
 
 | Project | What it is | Stack |
 |---|---|---|
-| **StreaMatrix** | PyTorch → FPGA compilation flow based on Stream-HLS, with PandA-Bambu as the HLS backend for hls4ml. Custom MLIR passes took an 8×8 GEMM kernel from 93 to 27 FSM states. | MLIR, LLVM, PandA-Bambu |
-| **GPU sequence-to-graph alignment** | CUDA acceleration of Theseus, an affine-gap sequence-to-graph aligner for pangenomics (with GenoGra). Up to 3.07× speedup. | CUDA |
 | [**Zant**](https://github.com/ZantFoundation/Z-Ant) | Open-source SDK that maps ONNX models onto microcontrollers. I work on the quantization pipeline (PTQ/QAT, QDQ fusion) and deployment on Arduino Nicla Vision. | Zig, ONNX |
 | [**Codex Naturalis**](https://github.com/pietrobenecchi/CodexNaturalis) | Full-stack Java implementation of the board game; team lead of a 4-person team. | Java |
+| [**RP Self-repair**](https://github.com/pietrobenecchi/RP_self_repair) | Research project on how oversampling techniques affect a regressor optimised by a genetic algorithm, with the UPPAAL model checker or a surrogate regressor as ground truth. | Python, UPPAAL |
+| **GPU sequence-to-graph alignment** | CUDA acceleration of Theseus, an affine-gap sequence-to-graph aligner for pangenomics (with GenoGra). Up to 3.07× speedup. | CUDA |
 | [**Digital Logic Design**](https://github.com/pietrobenecchi/Digital-logic-design) | VHDL hardware module interfacing with memory; maximum grade. | VHDL |
 
 ### Also
