@@ -30,4 +30,4 @@ Based in Milan, Italy. Open to roles in edge AI, ML compilers and inference hard
 
 ### Tools
 
-C · C++ · CUDA · Zig · Python · Java · VHDL · MLIR · LLVM · PandA-Bambu · Vitis HLS · hls4ml · PyTorch · TensorFlow · ONNX
+C · C++ · CUDA · Zig · Python · Java · ONNX
