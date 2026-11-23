@@ -2,13 +2,13 @@
 
 **ML compilers · High-level synthesis · Edge-AI inference**
 
-MSc student in Computer Science & Engineering at Politecnico di Milano (graduating Dec 2026).
-I work where machine learning meets hardware: compilers, HLS and inference on constrained devices (FPGAs, MCUs, GPUs).
-My thesis is on FPGA acceleration of LLM inference with Prof. Fabrizio Ferrandi, in collaboration with CERN (Edge SpAIce project).
+MSc student in Computer Science & Engineering at Politecnico di Milano. 
+I work on compilers, HLS and inference on constrained devices. I love programming GPUs 
+My thesis is on FPGA acceleration of LLM inference with Prof. Fabrizio Ferrandi. 
 
-Based in Milan, Italy. Open to roles in edge AI, ML compilers and inference hardware, and to relocation.
+Based in Milan, Italy but open to relocation. Open to roles in edge AI, ML compilers and inference hardware.
 
-🌐 [pietrobenecchi.github.io](https://pietrobenecchi.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/pietro-benecchi-07078321b)
+🌐 [pietrobenecchi.github.io](https://pietrobenecchi.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/pietro-benecchi)
 
 ---
 
@@ -16,9 +16,9 @@ Based in Milan, Italy. Open to roles in edge AI, ML compilers and inference hard
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Zant**](https://github.com/ZantFoundation/Z-Ant) | Open-source SDK that maps ONNX models onto microcontrollers. I work on the quantization pipeline (PTQ/QAT, QDQ fusion) and deployment on Arduino Nicla Vision. | Zig, ONNX |
+| [**Zant**](https://github.com/ZantFoundation/Z-Ant) | Open-source SDK that maps ONNX models onto microcontrollers. I work on the quantization pipeline and deployment on Arduino Nicla Vision. | Zig, ONNX |
 | [**Codex Naturalis**](https://github.com/pietrobenecchi/CodexNaturalis) | Full-stack Java implementation of the board game | Java |
-| [**RP Self-repair**](https://github.com/pietrobenecchi/RP_self_repair) | Research project on how oversampling techniques affect a regressor optimised by a genetic algorithm, with the UPPAAL model checker or a surrogate regressor as ground truth. | Python |
+| [**RP Self-repair**](https://github.com/pietrobenecchi/RP_self_repair) | Research project on how oversampling techniques affect a regressor optimised by a genetic algorithm. | Python |
 | [**GPU sequence-to-graph alignment**](https://github.com/pietrobenecchi/GPU_genomics_project) | CUDA acceleration of Theseus, an affine-gap sequence-to-graph aligner for pangenomics (with GenoGra). | CUDA |
 | [**Digital Logic Design**](https://github.com/pietrobenecchi/Digital-logic-design) | VHDL hardware module interfacing with memory | VHDL |
 
