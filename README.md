@@ -16,7 +16,7 @@ Based in Milan, Italy but open to relocation. Open to roles in edge AI, ML compi
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Zant**](https://github.com/ZantFoundation/Z-Ant) | Open-source SDK that maps ONNX models onto microcontrollers. I work on the quantization pipeline and deployment on Arduino Nicla Vision. | Zig, ONNX |
+| [**Zant**](https://github.com/ZantFoundation/Z-Ant) | Open-source SDK that maps ONNX models onto microcontrollers. | Zig, ONNX |
 | [**Codex Naturalis**](https://github.com/pietrobenecchi/CodexNaturalis) | Full-stack Java implementation of the board game | Java |
 | [**RP Self-repair**](https://github.com/pietrobenecchi/RP_self_repair) | Research project on how oversampling techniques affect a regressor optimised by a genetic algorithm. | Python |
 | [**GPU sequence-to-graph alignment**](https://github.com/pietrobenecchi/GPU_genomics_project) | CUDA acceleration of Theseus, an affine-gap sequence-to-graph aligner for pangenomics (with GenoGra). | CUDA |
